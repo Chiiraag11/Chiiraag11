@@ -28,6 +28,6 @@ I’m passionate about building high-performance, user-friendly applications fro
 
 #### 🛠 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,jupyter,aws,postman,burpsuite" height="36" alt="Git, VS Code, Jupyter, AWS, Postman, Burp Suite" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,aws,postman" height="36" alt="Git, VS Code, Jupyter, AWS, Postman, Burp Suite" />
 </p>
 <p align="center"><strong>Git • VS Code • Jupyter • AWS • Postman • Burp Suite</strong></p>
