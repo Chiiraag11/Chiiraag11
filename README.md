@@ -98,6 +98,10 @@
 
 </div>
 
+## 📈 Contribution Graph
+
+[![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiiraag11&theme=tokyo-night&hide_border=true)](https://github.com/Chiiraag11)
+
 ---
 
 ## 🌐 Coding Profiles
