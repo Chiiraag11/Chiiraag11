@@ -24,9 +24,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chiiraag11&show_icons=false&hide_border=true&theme=tokyonight&hide=stars,issues&card_width=180" width="0"/>
 
 > *I'm a developer who sits at the intersection of **full-stack engineering** and **cybersecurity** —
-> building applications that are not just functional, but secure and scalable by design.
-> Whether it's crafting threat detection pipelines or shipping production APIs,
-> I care deeply about the **why** behind every line of code.*
+> building secure, scalable applications that solve real-world problems.
+> Whether it's designing threat detection platforms, developing enterprise solutions, or shipping production-ready APIs,
+> I care deeply about writing clean code and creating systems that are reliable, efficient, and impactful.*
+>
+> *Beyond development, I'm passionate about **problem solving** and **competitive programming**,
+> with 400+ DSA problems solved across coding platforms, a **2★ CodeChef rating** (Max 1555), and a **1500+ LeetCode rating**.
+> I'm constantly learning, building, and pushing myself to become a better engineer every day.*
+
 
 <br/>
 
@@ -44,11 +49,6 @@
 </table>
 
 <br/>
-
-- 🔨 Building full-stack apps focused on **security, performance & clean architecture**
-- 🛡️ Passionate about **cybersecurity**, threat detection, and RESTful API design
-- 🧩 Active problem solver — **400+ DSA** problems across LeetCode, CodeChef & GFG
-- 💼 **Open to internships** and collaboration opportunities
 
 ## 🛠️ Tech Stack
 
