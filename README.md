@@ -21,14 +21,34 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech IT** student at **IIIT Bhopal** (2023–2027) · CGPA: **8.16**
-- 🔨 Building full-stack web applications with a focus on **security and performance**
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chiiraag11&show_icons=false&hide_border=true&theme=tokyonight&hide=stars,issues&card_width=180" width="0"/>
+
+> *I'm a developer who sits at the intersection of **full-stack engineering** and **cybersecurity** —
+> building applications that are not just functional, but secure and scalable by design.
+> Whether it's crafting threat detection pipelines or shipping production APIs,
+> I care deeply about the **why** behind every line of code.*
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/IIIT%20Bhopal-B.Tech%20IT-00D9FF?style=for-the-badge&logoColor=white"/>
+  <br/><sub><b>2023 → 2027</b></sub>
+</td>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/CGPA-8.16%20%2F%2010-302b63?style=for-the-badge&logoColor=white"/>
+  <br/><sub><b>Information Technology</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+- 🔨 Building full-stack apps focused on **security, performance & clean architecture**
 - 🛡️ Passionate about **cybersecurity**, threat detection, and RESTful API design
 - 🧩 Active problem solver — **400+ DSA** problems across LeetCode, CodeChef & GFG
-- 📌 Currently exploring **advanced security tooling**, system design, and open-source
 - 💼 **Open to internships** and collaboration opportunities
-
----
 
 ## 🛠️ Tech Stack
 
@@ -70,11 +90,9 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chiragprasad504/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/chiragprasad504)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/chiragprasad504/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/chiragprasad504)
-[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logoColor=white)](https://codolio.com/profile/chiragprasad504)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Chirag_11/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/chiiraag_11)
+[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Chiirag)
 
 </div>
 
