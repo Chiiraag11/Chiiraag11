@@ -56,19 +56,33 @@
 
 #### Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,html" height="42" />
+<br/>
+<sub><b>C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TypeScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5</b></sub>
+
+<br/><br/>
 
 #### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" height="42" />
+<br/>
+<sub><b>React.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FastAPI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS</b></sub>
+
+<br/><br/>
 
 #### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" height="42" />
+<br/>
+<sub><b>MongoDB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firebase</b></sub>
+
+<br/><br/>
 
 #### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel" height="42" />
+<br/>
+<sub><b>Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vercel</b></sub>
 
 </div>
 
----
+--
 
 ## 📊 GitHub Stats
 
