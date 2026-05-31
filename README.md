@@ -10,9 +10,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-prasad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chiragprasad504)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-prasad-68215a276/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-m1by.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chiiraag11)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragprasad504@gmail.com)
 
 </div>
@@ -65,7 +65,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [ASTRA](https://github.com/chiragprasad504/astra)
+### 🛡️ [ASTRA](https://github.com/Chiiraag11/ASTRA)
 **Advanced System for Threat Recognition & Analysis**
 
 > Full-stack cybersecurity platform for APK and URL threat detection
@@ -80,7 +80,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [CyberPulse](https://github.com/chiragprasad504/cyberpulse)
+### 🌐 [CyberPulse](https://github.com/Chiiraag11/CyberPulse)
 **Real-time Website Security Monitoring Platform**
 
 > Full-stack platform for live security posture analysis
