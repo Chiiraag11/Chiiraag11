@@ -29,7 +29,7 @@
 > I care deeply about writing clean code and creating systems that are reliable, efficient, and impactful.*
 >
 > *Beyond development, I'm passionate about **problem solving** and **competitive programming**,
-> with 400+ DSA problems solved across coding platforms, a **2★ CodeChef rating** (Max 1555), and a **1500+ LeetCode rating**.
+> with 500+ DSA problems solved across coding platforms, a **3★ CodeChef rating** (Max 1601), and a **1613 LeetCode rating**.
 > I'm constantly learning, building, and pushing myself to become a better engineer every day.*
 
 
