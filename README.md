@@ -38,7 +38,7 @@
 <table align="center" border="0">
 <tr>
 <td align="center" width="200">
-  <img src="https://img.shields.io/badge/IIIT%20Bhopal-B.Tech%20IT-00D9FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IIIT%20Bhopal-CGPA%208.18-00D9FF?style=for-the-badge&logoColor=white"/>
   <br/><sub><b>2023 → 2027</b></sub>
 </td>
 <td align="center" width="200">
