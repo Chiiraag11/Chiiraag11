@@ -27,9 +27,9 @@ I'm a B.Tech IT student at **IIIT Bhopal** (CGPA: 8.18) who likes building syste
 
 - 🔭 Currently building **full-stack products and backend infrastructure** in TypeScript, Node.js, and Next.js
 - 🧠 Deep interest in **system design, API architecture, and distributed systems**
-- 🚩 CTF Master @ **XPLOIT Club, IIIT Bhopal** — trained 500+ students in offensive security
-- 🧩 500+ DSA problems solved · **1613** peak LeetCode rating (top 22%)
-- 🔗 Find me here: [GitHub](https://github.com/Chiiraag11) · [LeetCode](https://leetcode.com/u/Chirag_11) · [Codolio](https://codolio.com/profile/ChiragPrasad) · [CodeChef](https://www.codechef.com/users/chiiraag_11)
+- 🚩 CTF Master @ **XPLOIT Club, IIIT Bhopal** — trained 500+ students in cybersecurity
+- 🧩 500+ DSA problems solved · **1668** peak LeetCode rating (top 16%)
+- 🔗 Find me here: [GitHub](https://github.com/Chiiraag11) · [LeetCode](https://leetcode.com/u/Chirag_11) · [Codolio](https://codolio.com/profile/Chiirag) · [CodeChef](https://www.codechef.com/users/chiiraag_11)
 
 ---
 
