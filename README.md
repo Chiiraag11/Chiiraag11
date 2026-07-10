@@ -126,8 +126,8 @@ AI finance dashboard — natural language to SQL
 |---|---|
 | 🥇 ISRO Quiz (East Zone) | 1st Rank |
 | 🐛 OWASP Bug Hunting, MANIT Bhopal | 4th Place |
-| ⭐ CodeChef | 1601 rating (3-Star) · 254th / 19,000+ in Starters 241 |
-| 💻 LeetCode | 1613 peak rating · Top 22.09% globally |
+| ⭐ CodeChef | 1617 rating (3-Star) · 254th / 19,000+ in Starters 241 |
+| 💻 LeetCode | 1668 peak rating · Top 16.38% globally |
 | 🧩 DSA Problems Solved | 500+ across LeetCode & Code 360 |
 | 🎓 HackerRank | Software Engineer Intern & SQL Certified |
 
