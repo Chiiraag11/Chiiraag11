@@ -131,8 +131,6 @@ AI-powered assessment platform, 1K+ students in production
 
 <div align="center">
 
-📄 **[View my full résumé →](chiragprasad.in)**
-
 *Open to Software Engineering internships — let's build something reliable.*
 
 </div>
