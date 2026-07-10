@@ -27,7 +27,7 @@ I'm a B.Tech IT student at **IIIT Bhopal** (CGPA: 8.18) who likes building syste
 
 - 🔭 Currently building **distributed backend systems** in C++, Node.js, and TypeScript
 - 🧠 Deep interest in **concurrency, systems design, and API infrastructure**
-- 🚩 CTF Master @ **XPLOIT Club, IIIT Bhopal** — trained 500+ students in offensive security
+- 🚩 CTF Master @ **XPLOIT Club, IIIT Bhopal** — trained 500+ students in cybersecurity
 - 🧩 500+ DSA problems solved · **1613** peak LeetCode rating (top 22%)
 - 🌱 Always shipping something — check the projects below
 
