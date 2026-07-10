@@ -23,13 +23,13 @@
 
 ### ⚡ About Me
 
-I'm a B.Tech IT student at **IIIT Bhopal** (CGPA: 8.18) who likes building systems that have to hold up under real load — order-matching engines, rate limiters, anything where concurrency bugs hide until production. I've shipped backend features used by 1,000+ users, and I break things on purpose (competitively, in CTFs) to understand how to build them better.
+I'm a B.Tech IT student at **IIIT Bhopal** (CGPA: 8.18) who likes building systems that have to hold up under real load — loan lifecycles, rate limiters, AI pipelines, anything where edge cases hide until production. I break things on purpose too (competitively, in CTFs) to understand how to build them better.
 
-- 🔭 Currently building **distributed backend systems** in C++, Node.js, and TypeScript
-- 🧠 Deep interest in **concurrency, systems design, and API infrastructure**
-- 🚩 CTF Master @ **XPLOIT Club, IIIT Bhopal** — trained 500+ students in cybersecurity
+- 🔭 Currently building **full-stack products and backend infrastructure** in TypeScript, Node.js, and Next.js
+- 🧠 Deep interest in **system design, API architecture, and distributed systems**
+- 🚩 CTF Master @ **XPLOIT Club, IIIT Bhopal** — trained 500+ students in offensive security
 - 🧩 500+ DSA problems solved · **1613** peak LeetCode rating (top 22%)
-- 🌱 Always shipping something — check the projects below
+- 🔗 Find me here: [GitHub](https://github.com/Chiiraag11) · [LeetCode](https://leetcode.com/u/Chirag_11) · [Codolio](https://codolio.com/profile/ChiragPrasad) · [CodeChef](https://www.codechef.com/users/chiiraag_11)
 
 ---
 
@@ -39,13 +39,13 @@ I'm a B.Tech IT student at **IIIT Bhopal** (CGPA: 8.18) who likes building syste
 <tr>
 <td width="50%" valign="top">
 
-**🔗 [OrderBookServer](https://github.com/Chiiraag11/order-book-server)**
-Multi-threaded TCP order-matching engine in C++17
-- 15,000+ orders/sec at sub-ms p50 latency
-- Per-symbol lock granularity — zero deadlocks
-- Fixed a Nagle's algorithm bottleneck, 2x throughput
+**🔗 [LoanFlow](https://github.com/Chiiraag11) · [Live](#)**
+Full-stack loan management platform
+- RBAC across 6 roles, 18 secured REST endpoints
+- 6-state loan lifecycle with business rule engine
+- 56ms avg API response · 97/100 Lighthouse score
 
-`C++17` `POSIX Sockets` `Multithreading`
+`Next.js 15` `Express.js` `MongoDB` `JWT`
 
 </td>
 <td width="50%" valign="top">
@@ -61,7 +61,7 @@ Distributed API Gateway with rate limiting & circuit breaking
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" colspan="2">
 
 **🔗 [CashChat](https://github.com/Chiiraag11/CashChat) · [Live](https://cash-chat.vercel.app)**
 AI finance dashboard — natural language to SQL
@@ -70,16 +70,6 @@ AI finance dashboard — natural language to SQL
 - 30% fewer API calls via Redis caching
 
 `Next.js` `PostgreSQL` `Prisma`
-
-</td>
-<td width="50%" valign="top">
-
-**💼 VedaAI — Software Developer Intern**
-AI-powered assessment platform, 1K+ students in production
-- 15+ REST API endpoints, LLM prompt engineering
-- 30% faster API responses, 20% lower latency
-
-`React` `Node.js` `MongoDB`
 
 </td>
 </tr>
@@ -92,20 +82,26 @@ AI-powered assessment platform, 1K+ students in production
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -124,10 +120,18 @@ AI-powered assessment platform, 1K+ students in production
 
 ### 🏆 Achievements
 
-- 🥇 1st Rank — ISRO Quiz (East Zone)
-- 🐛 4th Place — OWASP Bug Hunting, MANIT Bhopal
-- ⭐ 1601 (3-Star) CodeChef · 254th/19,000+ in Starters 241
-- 🎓 Software Engineer Intern & SQL Certified — HackerRank
+<div align="center">
+
+| Achievement | Detail |
+|---|---|
+| 🥇 ISRO Quiz (East Zone) | 1st Rank |
+| 🐛 OWASP Bug Hunting, MANIT Bhopal | 4th Place |
+| ⭐ CodeChef | 1601 rating (3-Star) · 254th / 19,000+ in Starters 241 |
+| 💻 LeetCode | 1613 peak rating · Top 22.09% globally |
+| 🧩 DSA Problems Solved | 500+ across LeetCode & Code 360 |
+| 🎓 HackerRank | Software Engineer Intern & SQL Certified |
+
+</div>
 
 <div align="center">
 
