@@ -5,7 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Distributed%20Systems-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/IIIT-Bhopal-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Kolkata-blue?style=flat-square" />
 </p>
 
 <p>
