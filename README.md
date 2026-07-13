@@ -129,7 +129,7 @@ AI finance dashboard — natural language to SQL
 
 <div align="center">
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Chiiraag11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6B9DF7&icon_color=6B9DF7&text_color=C9D1D9" />
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chiiraag11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6B9DF7&text_color=C9D1D9&langs_count=8" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chiiraag11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6B9DF7&text_color=C9D1D9&langs_count=8&exclude_repo=" />
 </div>
 
 ---
