@@ -28,7 +28,7 @@ I'm a B.Tech IT student at **IIIT Bhopal** (CGPA: 8.18) who likes building syste
 - 🔭 Currently building **full-stack products and backend infrastructure** in TypeScript, Node.js, and Next.js
 - 🧠 Deep interest in **system design, API architecture, and distributed systems**
 - 🚩 CTF Master @ **XPLOIT Club, IIIT Bhopal** — trained 500+ students in cybersecurity
-- 🧩 500+ DSA problems solved · **1668** peak LeetCode rating (top 16%)
+- 🧩 600+ DSA problems solved · **1718** peak LeetCode rating (top 12%)
 - 🔗 Find me here: [GitHub](https://github.com/Chiiraag11) · [LeetCode](https://leetcode.com/u/Chirag_11) · [Codolio](https://codolio.com/profile/Chiirag) · [CodeChef](https://www.codechef.com/users/chiiraag_11)
 
 ---
@@ -134,8 +134,8 @@ AI finance dashboard — natural language to SQL
 | 🥇 ISRO Quiz (East Zone) | 1st Rank |
 | 🐛 OWASP Bug Hunting, MANIT Bhopal | 4th Place |
 | ⭐ CodeChef | 1617 rating (3-Star) · 254th / 19,000+ in Starters 241 |
-| 💻 LeetCode | 1668 peak rating · Top 16.38% globally |
-| 🧩 DSA Problems Solved | 500+ across LeetCode & Code 360 |
+| 💻 LeetCode | 1718 peak rating · Top 12.41% globally |
+| 🧩 DSA Problems Solved | 600+ across LeetCode & Code 360 |
 | 🎓 HackerRank | Software Engineer Intern & SQL Certified |
 
 </div>
