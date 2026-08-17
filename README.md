@@ -23,7 +23,7 @@
 
 ### ⚡ About Me
 
-I'm a B.Tech IT student at **IIIT Bhopal** (CGPA: 8.18) who likes building systems that have to hold up under real load — loan lifecycles, rate limiters, AI pipelines, anything where edge cases hide until production. I break things on purpose too (competitively, in CTFs) to understand how to build them better.
+I'm a B.Tech IT student at **IIIT Bhopal**  who likes building systems that have to hold up under real load — loan lifecycles, rate limiters, AI pipelines, anything where edge cases hide until production. I break things on purpose too (competitively, in CTFs) to understand how to build them better.
 
 - 🔭 Currently building **full-stack products and backend infrastructure** in TypeScript, Node.js, and Next.js
 - 🧠 Deep interest in **system design, API architecture, and distributed systems**
