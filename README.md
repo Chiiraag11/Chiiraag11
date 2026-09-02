@@ -39,7 +39,7 @@ I'm a B.Tech IT student at **IIIT Bhopal**  who likes building systems that have
 <tr>
 <td width="50%" valign="top">
 
-**🔗 [LoanFlow](https://github.com/Chiiraag11) · [Live](https://loan-flow-gamma.vercel.app)**
+**🔗 [LoanFlow](https://github.com/Chiiraag11/LoanFlow) · [Live](https://loan-flow-gamma.vercel.app)**
 Full-stack loan management platform
 - RBAC across 6 roles, 18 secured REST endpoints
 - 6-state loan lifecycle with business rule engine
